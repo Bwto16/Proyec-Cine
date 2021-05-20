@@ -1,0 +1,9 @@
+e:\Users\jb_sa\source\repos\cine\cine\bin\Debug\cine.exe.config
+e:\Users\jb_sa\source\repos\cine\cine\bin\Debug\cine.exe
+e:\Users\jb_sa\source\repos\cine\cine\bin\Debug\cine.pdb
+e:\Users\jb_sa\source\repos\cine\cine\obj\Debug\cine.csprojAssemblyReference.cache
+e:\Users\jb_sa\source\repos\cine\cine\obj\Debug\cine.Properties.Resources.resources
+e:\Users\jb_sa\source\repos\cine\cine\obj\Debug\cine.csproj.GenerateResource.cache
+e:\Users\jb_sa\source\repos\cine\cine\obj\Debug\cine.csproj.CoreCompileInputs.cache
+e:\Users\jb_sa\source\repos\cine\cine\obj\Debug\cine.exe
+e:\Users\jb_sa\source\repos\cine\cine\obj\Debug\cine.pdb
